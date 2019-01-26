@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/course_topics_list_view"
+        android:gravity="center"
+        android:textSize="32sp"
+        android:padding="5dp"
+        android:background="@drawable/custom_list_topics_item_view"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        tools:text="Indices"
+        android:singleLine="true"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="10sp"
+        android:autoSizeMaxTextSize="32sp"
+        android:autoSizeStepGranularity="2sp"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMinTextSize="10sp"
+        app:autoSizeMaxTextSize="32sp"
+        app:autoSizeStepGranularity="2sp" />
+
+</LinearLayout>

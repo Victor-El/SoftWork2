@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895533667456",
+    "firebase_url": "https://softwork2-c3153.firebaseio.com",
+    "project_id": "softwork2-c3153",
+    "storage_bucket": "softwork2-c3153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895533667456:android:11930499851ee6e9",
+        "android_client_info": {
+          "package_name": "com.example.brainiac.softwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895533667456-hbsmkcfdu45rdhkelsusnkme4gcc39lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brainiac.softwork",
+            "certificate_hash": "da5675ec9bd880d46a9c9b6d4cff570cbc4e2973"
+          }
+        },
+        {
+          "client_id": "895533667456-i0qohj3lgnlgo5lafsvepv6rfq2f0gim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Yu3ErhgYNKw6R9S4lmQZCZkTrXVD2hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895533667456-i0qohj3lgnlgo5lafsvepv6rfq2f0gim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
